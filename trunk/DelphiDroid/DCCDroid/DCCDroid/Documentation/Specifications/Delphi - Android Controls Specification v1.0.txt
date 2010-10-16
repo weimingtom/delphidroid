@@ -1,0 +1,55 @@
+﻿DELPHI FOR ANDROID (DCCDROID) CONTROLS
+
+Author: Lennie De Villiers <lenniedg@gmail.com>
+Version 1.0
+Create Date: 13/09/2010
+Last Update: 
+
+Overview
+--------
+
+When writting a Delphi application that target the Android mobile platform you place virtual components on the interface then set properties and 
+write the event handlers for example: Place a button (Type: TButton) on the form (Type: TForm), set its Text property to "Ok" then write an OnClick 
+event handler.
+
+Because Android controls don't have all the properties/events, we can't map them directly, for now the DCCDroid tool display a error message if a mapping 
+can't be done.
+
+Beyond This Scope
+-----------------
+
+For now we're going to only do the basic controls, further advance controls will be done at a later stage.
+
+Target Delphi
+-------------
+
+Delphi 2006, 2009, 2010 and XE.
+
+Development Required
+--------------------
+
+Need to write a set of Android specific controls that map to there Android counterpart but only have the properties/events available that Android have.
+For example: Create TDroidButton that is extended from TButton but only expose the Android properties/events. 
+
+All controls should work the same as there Delphi controls e.g. OnClick event of the TButton should work the same as in TDroidButton.
+
+All new controls must be in a Delphi package called "Delphi for Android" and place on the Delphi toolbar as "Droid". 
+
+Delphi -> Android Control Mappings
+----------------------------------
+
+This will be provided in an MS Excel sheet.
+
+Develoment Process
+------------------
+
+1) Create the new TDroidXXX control (like TDroidButton) together with properties/events.
+2) Do testing to make sure all works fine. 
+3) Add (Done-1) postfix to Pivotal Tracker task title and assign task back to Lennie De Villiers since need to make the changes as indicated in the topic 
+"Tool Changes" below.
+
+Tool Changes
+------------
+
+For each control we need to add a mapping for in the DCCDroid C# tool before the tool is complete. 
+This task will be done by Lennie De Villiers.

@@ -1,0 +1,7 @@
+Install application:
+
+adb -s emulator-5554 install MyAndroidApp-debug.apk
+
+Uninstall application:
+
+adb shell rm /data/app/com.example.myandroid.apk

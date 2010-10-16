@@ -1,0 +1,9 @@
+C:\Lennie\Work\DelphiDroid\DCCDroid\DCCDroid\bin\Debug\DCCDroid.exe
+C:\Lennie\Work\DelphiDroid\DCCDroid\DCCDroid\bin\Debug\DCCDroid.pdb
+C:\Lennie\Work\DelphiDroid\DCCDroid\DCCDroid\obj\Debug\ResolveAssemblyReference.cache
+C:\Lennie\Work\DelphiDroid\DCCDroid\DCCDroid\obj\Debug\DCCDroid.exe
+C:\Lennie\Work\DelphiDroid\DCCDroid\DCCDroid\obj\Debug\DCCDroid.pdb
+C:\Lennie\Work\DelphiDroid\DCCDroid\DCCDroid\bin\Debug\ActivityTemplate.txt
+C:\Lennie\Work\DelphiDroid\DCCDroid\DCCDroid\bin\Debug\DCCDroid.exe.config
+C:\Lennie\Work\DelphiDroid\DCCDroid\DCCDroid\bin\Debug\DCCDroid.Logic.dll
+C:\Lennie\Work\DelphiDroid\DCCDroid\DCCDroid\bin\Debug\DCCDroid.Logic.pdb

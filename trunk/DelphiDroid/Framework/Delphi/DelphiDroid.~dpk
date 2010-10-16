@@ -1,0 +1,39 @@
+package DelphiDroid;
+
+{$R *.res}
+{$R '..\..\..\..\program files\borland\delphi7\Imports\ElevatedLib_TLB.dcr'}
+{$R '..\..\..\..\program files\borland\delphi7\Imports\MSVBDataObjGen_TLB.dcr'}
+{$ALIGN 8}
+{$ASSERTIONS ON}
+{$BOOLEVAL OFF}
+{$DEBUGINFO ON}
+{$EXTENDEDSYNTAX ON}
+{$IMPORTEDDATA ON}
+{$IOCHECKS ON}
+{$LOCALSYMBOLS ON}
+{$LONGSTRINGS ON}
+{$OPENSTRINGS ON}
+{$OPTIMIZATION ON}
+{$OVERFLOWCHECKS OFF}
+{$RANGECHECKS OFF}
+{$REFERENCEINFO ON}
+{$SAFEDIVIDE OFF}
+{$STACKFRAMES OFF}
+{$TYPEDADDRESS OFF}
+{$VARSTRINGCHECKS ON}
+{$WRITEABLECONST OFF}
+{$MINENUMSIZE 1}
+{$IMAGEBASE $400000}
+{$DESCRIPTION 'Delphi For Android'}
+{$IMPLICITBUILD OFF}
+
+requires
+  rtl,
+  vcl;
+
+contains
+  Android.Dialog in 'Android.Dialog.pas',
+  ElevatedLib_TLB in '..\..\..\..\Program Files\Borland\Delphi7\Imports\ElevatedLib_TLB.pas',
+  MSVBDataObjGen_TLB in '..\..\..\..\Program Files\Borland\Delphi7\Imports\MSVBDataObjGen_TLB.pas';
+
+end.
