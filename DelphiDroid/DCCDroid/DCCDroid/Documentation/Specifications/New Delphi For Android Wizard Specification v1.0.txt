@@ -1,0 +1,54 @@
+﻿NEW DELPHI FOR ANDROID APPLICATION WIZARD
+
+Author: Lennie De Villiers <lenniedg@gmail.com>
+Version 1.0
+Create Date: 13/09/2010
+Last Update: 
+
+Overview
+--------
+
+An Android application use a different form layout, form size etc. 
+The goal of this development request is to create a wizard that allow you to create a new Delphi For Android application.
+
+Target Delphi
+-------------
+
+Delphi 2006, 2009, 2010 and XE.
+
+Development Required
+---------------------
+
+1) A new template on the new projects menu that say "Android Activity"
+2) Create the TDroidForm (base upon TForm) 
+3) Only make the controls in "Droid" visible on the component tool palette, all other controls must be hidden. 
+The next set of development is to write the controls.
+
+TDroidForm - Size
+-----------------
+
+The form size must be:
+
+Height: 333
+Width: 310
+
+TDroidForm Properties
+---------------------
+
+TDroidForm Methods
+-----------------
+
+TDroidForm Events
+-----------------
+
+The new TDroidForm only have the following events:
+
+OnCreate
+OnStart
+OnResume
+OnRestart
+OnPause
+OnStop
+OnDestroy
+
+See reference: http://developer.android.com/reference/android/app/Activity.html

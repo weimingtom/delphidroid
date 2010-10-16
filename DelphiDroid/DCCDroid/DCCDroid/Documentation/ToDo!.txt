@@ -1,0 +1,37 @@
+﻿Current:
+
+- Support for control properties
+- Add function that allow you to get/set the text from a textbox
+- Add function that allow you to get/set the text on a label
+- Demo 2: Label, Button, Textbox where you type something into the text box, process a button and the text appear in Label
+
+Backlog:
+
+- Validate program arguments
+- Call Delphi compiler to compile before we parse, this make sure that the Delphi compile was successful before we proceed
+- TEdit properties/events
+- TButton properties/events
+- TLabel properties/events 
+- TForm properties/events 
+- Check how we can handle the height/width of a control where it currently default to "wrap_content"
+- Display compile error if you implemented an event handler in Delphi but we don't support it in Android 
+- Library support: Design and investigation
+- Library support: You can write your own library (use MEF)
+- Library support: Android.Dailog
+- Library support: Android.RESTFul - be able to call a web service
+- Signing (jarsigner) for public release
+- Tool that allow you to open up emulator, compile solution, deploy solution to emulator and run directly from a menu option in Delphi (similar
+to how Monodroid works).
+- Delphi Language: Assignment
+- Delphi Language: Variable and constant support
+- Delphi Language: if statements and conditions
+- Delphi Language: Case statement
+- Delphi Language: Type conversion
+- Delphi Language: for loop
+- Delphi Language: Until and while loop
+- Delphi Language: Procedures
+- Delphi Language: Functions
+
+
+
+

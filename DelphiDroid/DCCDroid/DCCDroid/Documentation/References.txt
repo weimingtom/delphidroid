@@ -1,0 +1,31 @@
+Marketing: Delphi usage on 16 March 2009 show that Delphi is the most used:
+
+http://www.delphixpg.com/thanks.htm
+
+Form (DFM) Parser:
+
+http://www.felix-colibri.com/papers/colibri_utilities/dfm_parser/dfm_parser.html
+
+Form (DFM) From Binary/Text Etc:
+
+http://www.delphidabbler.com/tips/66
+
+Reading and writing text files:
+
+http://www.delphicorner.f9.co.uk/articles/misc2.htm
+
+Create a serial number:
+
+http://www.brandonstaggs.com/2007/07/26/implementing-a-partial-serial-number-verification-system-in-delphi/
+
+Create a Delphi package:
+
+http://delphi.about.com/od/objectpascalide/a/bpl_vs_dll_2.htm
+
+Android SDK Docs - View:
+
+http://developer.android.com/reference/android/view/View.html
+
+Android - Form Stuff Tutorial:
+
+http://developer.android.com/resources/tutorials/views/hello-formstuff.html

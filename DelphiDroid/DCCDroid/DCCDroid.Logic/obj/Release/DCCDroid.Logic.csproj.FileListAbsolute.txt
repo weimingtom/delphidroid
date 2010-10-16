@@ -1,0 +1,5 @@
+C:\Lennie\Work\DelphiDroid\DCCDroid\DCCDroid.Logic\bin\Release\DCCDroid.Logic.dll
+C:\Lennie\Work\DelphiDroid\DCCDroid\DCCDroid.Logic\bin\Release\DCCDroid.Logic.pdb
+C:\Lennie\Work\DelphiDroid\DCCDroid\DCCDroid.Logic\obj\Release\ResolveAssemblyReference.cache
+C:\Lennie\Work\DelphiDroid\DCCDroid\DCCDroid.Logic\obj\Release\DCCDroid.Logic.dll
+C:\Lennie\Work\DelphiDroid\DCCDroid\DCCDroid.Logic\obj\Release\DCCDroid.Logic.pdb
